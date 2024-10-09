@@ -1,0 +1,58 @@
+.fon{
+    background-image: url(vintage-border-salon-tools-wooden-table-jobs-career-concept.jpg);
+ height: 800px;
+ display: grid;
+ justify-content: center;
+ align-items: center;
+    background-size: cover;
+}
+
+.nin:hover{
+    color: rgb(193, 181, 53);
+    transition: all 0,5s ease;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;    
+}
+
+.nin{
+    color: rgb(185, 185, 174);
+    text-align: center;
+    font-size: 50px;    
+    transition-duration: 1s ;
+    font-weight: bold;
+
+}
+
+.menu{
+    text-decoration: none;
+    background-color: rgb(105, 96, 66);
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    transition: all 1s;
+}
+
+.menu:hover{
+    background-color: rgb(193, 181, 53);
+    transition:0,5s ;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+
+}
+
+.BS{
+    background-color: black;
+    margin: 0;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+    
+}
+
+
